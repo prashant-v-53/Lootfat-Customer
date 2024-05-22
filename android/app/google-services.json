@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929608372970",
+    "project_id": "lootfat-e975b",
+    "storage_bucket": "lootfat-e975b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929608372970:android:67f70eb854524dcef1fd93",
+        "android_client_info": {
+          "package_name": "com.lootfat.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaW4jHt9k4TYYS9k0GAw33gDWnSGldCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929608372970:android:308edc97ca9268dbf1fd93",
+        "android_client_info": {
+          "package_name": "com.lootfat.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaW4jHt9k4TYYS9k0GAw33gDWnSGldCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
